@@ -1,0 +1,3 @@
+Took the QMK-OpenRGB code by [tirrorex](https://github.com/tirrorex/QMK-OpenRGB) for the Keychron Q1 Knob edition (rev_0107) and adjusted to merge with code from [mkillewald](https://github.com/mkillewald/qmk_firmware/tree/mkillewald/keyboards/keychron/q1/rev_0100/keymaps/mkillewald)'s keymap that adds a lot of functionality, including the ability for the Caps Lock LED to toggle red/any color when active.
+
+Made my own keymap for layers 2 & 3 (Windows layers), which includes shift+home for end, pgup is mapped to be win+l to lock pc, pgdm is mapped to play, and fn+knob click is mapped to mute my mic in conjunction with [MicMute](https://sourceforge.net/projects/micmute/). 
